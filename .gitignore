@@ -1,0 +1,6 @@
+.vscode
+*.egg
+dist
+build
+dfordbx.egg-info
+__pycache__
